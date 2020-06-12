@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0678552c-4f4a-4a07-bd8e-2016c5fe7f16" name="Default Changelist" comment="" />
+    <list default="true" id="0678552c-4f4a-4a07-bd8e-2016c5fe7f16" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/chapter_1/section_04/binarySearchSortedArray/AL_02_BinarySearchSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter_1/section_04/binarySearchSortedArray/BinarySearchSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter_1/section_04/threeSumProblem/AL_01_ThreeSomeProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter_1/section_04/threeSumProblem/ThreeSomeProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter_1/section_04/threeSumProblemUsingBinarySearch/AL_03_ThreeSumProblemUsingBinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter_1/section_04/threeSumProblemUsingBinarySearch/ThreeSumProblemUsingBinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,11 +32,64 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chapter_1/section_05/weightedQuickUnionPathComparisonUF/AL_05_WeightedQuickUnionPathComparisonUF.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="53" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="53" />
+            <state relative-caret-position="176">
+              <caret line="8" column="54" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter_1/section_04/threeSumProblem/AL_01_ThreeSomeProblem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="67" selection-start-line="4" selection-start-column="6" selection-end-line="6" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter_1/section_04/binarySearchSortedArray/AL_02_BinarySearchSortedArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter_1/section_04/threeSumProblem/ThreeSomeProblem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="23" column="5" selection-start-line="3" selection-start-column="2" selection-end-line="23" selection-end-column="5" />
+              <folding>
+                <element signature="e#146#147#0" expanded="true" />
+                <element signature="e#184#185#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter_1/section_04/threeSumProblemUsingBinarySearch/AL_03_ThreeSumProblemUsingBinarySearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="63" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/chapter_1/section_04/threeSumProblemUsingBinarySearch/ThreeSumProblemUsingBinarySearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+              <folding>
+                <element signature="e#171#172#0" expanded="true" />
+                <element signature="e#209#210#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -40,6 +102,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -75,11 +140,19 @@
         <option value="$PROJECT_DIR$/src/chapter_1/section_05/pathComparisonQuickUnionUF/PathComparisonQuickUnionUF.java" />
         <option value="$PROJECT_DIR$/src/chapter_1/section_05/weightedQuickUnionPathComparisonUF/PathComparisonQuickUnionUF.java" />
         <option value="$PROJECT_DIR$/src/chapter_1/section_05/weightedQuickUnionPathComparisonUF/WeightedQuickUnionPathComparisonUF.java" />
-        <option value="$PROJECT_DIR$/src/chapter_1/section_05/weightedQuickUnionPathComparisonUF/AL_05_WeightedQuickUnionPathComparisonUF.java" />
         <option value="$PROJECT_DIR$/src/chapter_1/section_05/quickUnionPathComparison/QuickUnionPathComparison.java" />
         <option value="$PROJECT_DIR$/src/chapter_1/section_05/quickUnionPathComparisonUF/AL_04_QuickUnionPathComparison.java" />
         <option value="$PROJECT_DIR$/src/chapter_1/section_05/quickUnionPathComparisonUF/QuickUnionPathComparisonUF.java" />
         <option value="$PROJECT_DIR$/src/chapter_1/section_05/quickUnionPathComparisonUF/AL_04_QuickUnionPathComparisonUF.java" />
+        <option value="$PROJECT_DIR$/src/chapter_1/section_05/weightedQuickUnionPathComparisonUF/AL_05_WeightedQuickUnionPathComparisonUF.java" />
+        <option value="$PROJECT_DIR$/src/chapter_1/section_04/threeSumProblem/ThreeSomeProblem.java" />
+        <option value="$PROJECT_DIR$/src/chapter_1/section_04/threeSumProblem/AL_01_ThreeSomeProblem.java" />
+        <option value="$PROJECT_DIR$/src/chapter_1/section_04/binarySearch/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/chapter_1/section_04/binarySearch/AL_02_BinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/chapter_1/section_04/binarySearchSortedArray/AL_02_BinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/chapter_1/section_04/binarySearchSortedArray/AL_02_BinarySearchSortedArray.java" />
+        <option value="$PROJECT_DIR$/src/chapter_1/section_04/threeSumProblemUsingBinarySearch/AL_03_ThreeSumProblemUsingBinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/chapter_1/section_04/threeSumProblemUsingBinarySearch/ThreeSumProblemUsingBinarySearch.java" />
       </list>
     </option>
   </component>
@@ -94,12 +167,14 @@
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -125,57 +200,19 @@
               <item name="chapter_1" type="462c0819:PsiDirectoryNode" />
               <item name="section_05" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter_1" type="462c0819:PsiDirectoryNode" />
-              <item name="section_05" type="462c0819:PsiDirectoryNode" />
-              <item name="quickFindUF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter_1" type="462c0819:PsiDirectoryNode" />
-              <item name="section_05" type="462c0819:PsiDirectoryNode" />
-              <item name="quickUnionPathComparisonUF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter_1" type="462c0819:PsiDirectoryNode" />
-              <item name="section_05" type="462c0819:PsiDirectoryNode" />
-              <item name="quickUnionUF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter_1" type="462c0819:PsiDirectoryNode" />
-              <item name="section_05" type="462c0819:PsiDirectoryNode" />
-              <item name="weightedQuickUnionPathComparisonUF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter_1" type="462c0819:PsiDirectoryNode" />
-              <item name="section_05" type="462c0819:PsiDirectoryNode" />
-              <item name="weightedQuickUnionUF" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591682520529" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591964022359" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -189,13 +226,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AL_04_QuickUnionPathComparisonUF">
-    <configuration name="AL_01_QuickFindUF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_1.section_05.quickFindUF.AL_01_QuickFindUF" />
+  <component name="RunManager" selected="Application.AL_03_ThreeSumProblemUsingBinarySearch">
+    <configuration name="AL_01_ThreeSomeProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_1.section_04.threeSumProblem.AL_01_ThreeSomeProblem" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter_1.section_05.quickFindUF.*" />
+          <option name="PATTERN" value="chapter_1.section_04.threeSumProblem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -203,12 +240,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AL_02_QuickUnionUF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_1.section_05.quickUnionUF.AL_02_QuickUnionUF" />
+    <configuration name="AL_02_BinarySearchSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_1.section_04.binarySearchSortedArray.AL_02_BinarySearchSortedArray" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter_1.section_05.quickUnionUF.*" />
+          <option name="PATTERN" value="chapter_1.section_04.binarySearchSortedArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,12 +253,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AL_03_WeightedQuickUnionUF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_1.section_05.weightedQuickUnionUF.AL_03_WeightedQuickUnionUF" />
+    <configuration name="AL_03_ThreeSumProblemUsingBinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_1.section_04.threeSumProblemUsingBinarySearch.AL_03_ThreeSumProblemUsingBinarySearch" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter_1.section_05.weightedQuickUnionUF.*" />
+          <option name="PATTERN" value="chapter_1.section_04.threeSumProblemUsingBinarySearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -256,19 +293,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.AL_01_QuickFindUF" />
-      <item itemvalue="Application.AL_02_QuickUnionUF" />
-      <item itemvalue="Application.AL_03_WeightedQuickUnionUF" />
       <item itemvalue="Application.AL_05_WeightedQuickUnionPathComparisonUF" />
       <item itemvalue="Application.AL_04_QuickUnionPathComparisonUF" />
+      <item itemvalue="Application.AL_01_ThreeSomeProblem" />
+      <item itemvalue="Application.AL_02_BinarySearchSortedArray" />
+      <item itemvalue="Application.AL_03_ThreeSumProblemUsingBinarySearch" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AL_03_ThreeSumProblemUsingBinarySearch" />
+        <item itemvalue="Application.AL_02_BinarySearchSortedArray" />
+        <item itemvalue="Application.AL_01_ThreeSomeProblem" />
         <item itemvalue="Application.AL_04_QuickUnionPathComparisonUF" />
         <item itemvalue="Application.AL_05_WeightedQuickUnionPathComparisonUF" />
-        <item itemvalue="Application.AL_03_WeightedQuickUnionUF" />
-        <item itemvalue="Application.AL_02_QuickUnionUF" />
-        <item itemvalue="Application.AL_01_QuickFindUF" />
       </list>
     </recent_temporary>
   </component>
@@ -290,17 +327,19 @@
       <workItem from="1591416454040" duration="5157000" />
       <workItem from="1591506116414" duration="3208000" />
       <workItem from="1591591284022" duration="3186000" />
-      <workItem from="1591678713898" duration="2219000" />
+      <workItem from="1591678713898" duration="2932000" />
+      <workItem from="1591941298762" duration="8246000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28683000" />
+    <option name="totallyTimeSpent" value="37642000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978166" visible="true" weight="0.19060403" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978166" visible="true" weight="0.18456376" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -309,15 +348,15 @@
       <window_info id="Favorites" order="6" sideWeight="0.5021834" side_tool="true" weight="0.1590604" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329429" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.73938507" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.66617864" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39970717" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.46266472" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.46266472" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -330,9 +369,61 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven" order="8" weight="0.3295302" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978166" visible="true" weight="0.1932886" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5021834" side_tool="true" weight="0.1590604" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329429" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.66617864" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39970717" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.46266472" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven" order="8" weight="0.3295302" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapter_1/section_04/binarySearchSortedArray/BinarySearchSortedArray.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>binarySearch.findIndex(numbers,1)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
@@ -469,10 +560,71 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6611">
+          <caret line="4345" column="25" selection-start-line="4345" selection-start-column="25" selection-end-line="4345" selection-end-column="25" />
+          <folding>
+            <element signature="e#84738#84739#0" expanded="true" />
+            <element signature="e#84795#84796#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter_1/section_05/weightedQuickUnionPathComparisonUF/AL_05_WeightedQuickUnionPathComparisonUF.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="53" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="53" />
+        <state relative-caret-position="176">
+          <caret line="8" column="54" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter_1/section_04/binarySearchSortedArray/BinarySearchSortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter_1/section_04/binarySearchSortedArray/AL_02_BinarySearchSortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter_1/section_04/threeSumProblem/AL_01_ThreeSomeProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="67" selection-start-line="4" selection-start-column="6" selection-end-line="6" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter_1/section_04/threeSumProblem/ThreeSomeProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="5" selection-start-line="3" selection-start-column="2" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter_1/section_04/threeSumProblemUsingBinarySearch/AL_03_ThreeSumProblemUsingBinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="63" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter_1/section_04/threeSumProblemUsingBinarySearch/ThreeSumProblemUsingBinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+          <folding>
+            <element signature="e#171#172#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
