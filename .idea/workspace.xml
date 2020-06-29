@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0678552c-4f4a-4a07-bd8e-2016c5fe7f16" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter_1/section_03/stackUsingArray/AL_02_StackUsingArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter_1/section_03/stackUsingArray/StackUsingArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter_1/section_03/stackUsingLinkedList/AL_01_StackUsingLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter_1/section_03/stackUsingLinkedList/StackUsingLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter_1/section_03/stackUsingResizableArray/AL_03_StackUsingResizableArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter_1/section_03/stackUsingResizableArray/StackUsingResizableArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter_1/section_03/queueUsingArray/AL_05_QueueUsingArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter_1/section_03/queueUsingArray/QueueUsingArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter_1/section_03/queueUsingLinkedList/AL_04_QueueUsingLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter_1/section_03/queueUsingLinkedList/QueueUsingLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -23,37 +21,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/chapter_1/section_03/stackUsingResizableArray/StackUsingResizableArray.java">
+        <entry file="file://$PROJECT_DIR$/src/chapter_1/section_03/queueUsingArray/QueueUsingArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="504">
+              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
               <folding>
-                <element signature="e#160#161#0" expanded="true" />
-                <element signature="e#202#203#0" expanded="true" />
-                <element signature="e#286#287#0" expanded="true" />
+                <element signature="e#216#217#0" expanded="true" />
+                <element signature="e#261#262#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter_1/section_03/stackUsingResizableArray/AL_03_StackUsingResizableArray.java">
+        <entry file="file://$PROJECT_DIR$/src/chapter_1/section_03/queueUsingArray/AL_05_QueueUsingArray.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
-              <caret line="2" column="43" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter_1/section_03/stackUsingArray/StackUsingArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="21" column="20" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="21" selection-end-column="20" />
-              <folding>
-                <element signature="e#310#311#0" expanded="true" />
-                <element signature="e#352#353#0" expanded="true" />
-              </folding>
+              <caret line="2" column="34" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -73,10 +57,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/Part_1_1/Ex_09.java" />
-        <option value="$PROJECT_DIR$/src/Part_1_1/Ex_09_BinaryString.java" />
-        <option value="$PROJECT_DIR$/src/Part_01_01/Ex_09_BinaryString.java" />
         <option value="$PROJECT_DIR$/src/Part_01_01/Ex_13_MatrixTransposition.java" />
         <option value="$PROJECT_DIR$/src/Part_01_01/Ex_06_Fibonacci.java" />
         <option value="$PROJECT_DIR$/src/Part_01_01/Ex_15_HsitogramArray.java" />
@@ -124,6 +104,10 @@
         <option value="$PROJECT_DIR$/src/chapter_1/section_03/stackUsingArray/StackUsingArray.java" />
         <option value="$PROJECT_DIR$/src/chapter_1/section_03/stackUsingResizableArray/AL_03_StackUsingResizableArray.java" />
         <option value="$PROJECT_DIR$/src/chapter_1/section_03/stackUsingResizableArray/StackUsingResizableArray.java" />
+        <option value="$PROJECT_DIR$/src/chapter_1/section_03/queueUsingLinkedList/AL_04_QueueUsingLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/chapter_1/section_03/queueUsingLinkedList/QueueUsingLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/chapter_1/section_03/queueUsingArray/AL_05_QueueUsingArray.java" />
+        <option value="$PROJECT_DIR$/src/chapter_1/section_03/queueUsingArray/QueueUsingArray.java" />
       </list>
     </option>
   </component>
@@ -133,10 +117,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-10" />
-    <option name="width" value="980" />
-    <option name="height" value="1040" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1911" />
+    <option name="y" value="-5" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -144,6 +129,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -175,7 +161,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="chapter_1" type="462c0819:PsiDirectoryNode" />
               <item name="section_03" type="462c0819:PsiDirectoryNode" />
-              <item name="stackUsingArray" type="462c0819:PsiDirectoryNode" />
+              <item name="queueUsingArray" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
@@ -183,7 +169,15 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="chapter_1" type="462c0819:PsiDirectoryNode" />
               <item name="section_03" type="462c0819:PsiDirectoryNode" />
-              <item name="stackUsingLinkedList" type="462c0819:PsiDirectoryNode" />
+              <item name="queueUsingLinkedList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_1" type="462c0819:PsiDirectoryNode" />
+              <item name="section_03" type="462c0819:PsiDirectoryNode" />
+              <item name="stackUsingArray" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
@@ -212,14 +206,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592207369055" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1592645331120" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -236,26 +229,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AL_03_StackUsingResizableArray">
+  <component name="RunManager" selected="Application.AL_05_QueueUsingArray">
     <configuration name="AL_01_StackUsingLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter_1.section_03.stackUsingLinkedList.AL_01_StackUsingLinkedList" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="chapter_1.section_03.stackUsingLinkedList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AL_02_BinarySearchSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_1.section_04.binarySearchSortedArray.AL_02_BinarySearchSortedArray" />
-      <module name="algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter_1.section_04.binarySearchSortedArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -289,12 +269,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AL_03_ThreeSumProblemUsingBinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_1.section_04.threeSumProblemUsingBinarySearch.AL_03_ThreeSumProblemUsingBinarySearch" />
+    <configuration name="AL_04_QueueUsingLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_1.section_03.queueUsingLinkedList.AL_04_QueueUsingLinkedList" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter_1.section_04.threeSumProblemUsingBinarySearch.*" />
+          <option name="PATTERN" value="chapter_1.section_03.queueUsingLinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AL_05_QueueUsingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_1.section_03.queueUsingArray.AL_05_QueueUsingArray" />
+      <module name="algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter_1.section_03.queueUsingArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -303,19 +296,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.AL_02_BinarySearchSortedArray" />
-      <item itemvalue="Application.AL_03_ThreeSumProblemUsingBinarySearch" />
       <item itemvalue="Application.AL_01_StackUsingLinkedList" />
       <item itemvalue="Application.AL_02_StackUsingArray" />
       <item itemvalue="Application.AL_03_StackUsingResizableArray" />
+      <item itemvalue="Application.AL_04_QueueUsingLinkedList" />
+      <item itemvalue="Application.AL_05_QueueUsingArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AL_05_QueueUsingArray" />
+        <item itemvalue="Application.AL_04_QueueUsingLinkedList" />
         <item itemvalue="Application.AL_03_StackUsingResizableArray" />
         <item itemvalue="Application.AL_02_StackUsingArray" />
         <item itemvalue="Application.AL_01_StackUsingLinkedList" />
-        <item itemvalue="Application.AL_03_ThreeSumProblemUsingBinarySearch" />
-        <item itemvalue="Application.AL_02_BinarySearchSortedArray" />
       </list>
     </recent_temporary>
   </component>
@@ -343,17 +336,21 @@
       <workItem from="1592071183913" duration="2004000" />
       <workItem from="1592123322338" duration="124000" />
       <workItem from="1592196497663" duration="3412000" />
+      <workItem from="1592379428150" duration="5274000" />
+      <workItem from="1592642298918" duration="2446000" />
+      <workItem from="1592678077982" duration="599000" />
+      <workItem from="1592988285250" duration="855000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43478000" />
+    <option name="totallyTimeSpent" value="52652000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="1913" y="-3" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978166" visible="true" weight="0.19530201" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978166" visible="true" weight="0.16979866" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -362,7 +359,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.5021834" side_tool="true" weight="0.1590604" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329429" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.66617864" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.50512445" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39970717" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -660,13 +657,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter_1/section_03/stackUsingArray/StackUsingArray.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter_1/section_03/stackUsingResizableArray/StackUsingResizableArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="21" column="20" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="21" selection-end-column="20" />
+        <state relative-caret-position="154">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
-            <element signature="e#310#311#0" expanded="true" />
-            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -678,15 +675,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter_1/section_03/stackUsingResizableArray/StackUsingResizableArray.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter_1/section_03/queueUsingLinkedList/QueueUsingLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
           <folding>
-            <element signature="e#160#161#0" expanded="true" />
-            <element signature="e#202#203#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter_1/section_03/stackUsingArray/StackUsingArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter_1/section_03/queueUsingLinkedList/AL_04_QueueUsingLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter_1/section_03/queueUsingArray/QueueUsingArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter_1/section_03/queueUsingArray/AL_05_QueueUsingArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="34" />
         </state>
       </provider>
     </entry>
