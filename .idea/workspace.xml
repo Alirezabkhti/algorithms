@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0678552c-4f4a-4a07-bd8e-2016c5fe7f16" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter_2/section_01/insertionSort/AL_02_InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter_2/section_01/insertionSort/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter_2/section_01/selectionSort/AL_01_SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter_2/section_01/selectionSort/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter_2/section_01/shellSort/AL_03_ShellSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter_2/section_01/shellSort/ShellSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms/chapter_1/section_03/queueUsingArray/QueueUsingArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/chapter_1/section_03/queueUsingArray/QueueUsingArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,7 +31,7 @@
         <entry file="file://$PROJECT_DIR$/src/chapter_2/section_01/insertionSort/AL_02_InsertionSort.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
-              <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+              <caret line="12" column="81" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="12" selection-end-column="81" />
             </state>
           </provider>
         </entry>
@@ -59,11 +54,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chapter_2/section_01/selectionSort/SelectionSort.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
               <caret line="2" column="19" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/chapter_2/section_01/shellSort/AL_03_ShellSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="28" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter_2/section_01/shellSort/ShellSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -83,8 +96,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Part_01_01/Ex_24_GreatestCommonDivisor.java" />
-        <option value="$PROJECT_DIR$/src/Part_01_01/Ex_24_EuclidGreatestCommonDivisor.java" />
         <option value="$PROJECT_DIR$/src/Section_01/Ex_20_LnOfNFactorial.java" />
         <option value="$PROJECT_DIR$/src/Chapter_1/Section_01/Ex_20_LnOfNFactorial.java" />
         <option value="$PROJECT_DIR$/src/Chapter_1/Section_02/Ex_06_CircularRotation.java" />
@@ -131,9 +142,11 @@
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/chapter_2/section_01/insertionSort/AL_01_InsertionSort.java" />
         <option value="$PROJECT_DIR$/src/chapter_2/section_01/selectionSort/AL_01_SelectionSort.java" />
-        <option value="$PROJECT_DIR$/src/chapter_2/section_01/selectionSort/SelectionSort.java" />
         <option value="$PROJECT_DIR$/src/chapter_2/section_01/insertionSort/AL_02_InsertionSort.java" />
         <option value="$PROJECT_DIR$/src/chapter_2/section_01/insertionSort/InsertionSort.java" />
+        <option value="$PROJECT_DIR$/src/chapter_2/section_01/selectionSort/SelectionSort.java" />
+        <option value="$PROJECT_DIR$/src/chapter_2/section_01/shellSort/ShellSort.java" />
+        <option value="$PROJECT_DIR$/src/chapter_2/section_01/shellSort/AL_03_ShellSort.java" />
       </list>
     </option>
   </component>
@@ -219,6 +232,14 @@
               <item name="section_01" type="462c0819:PsiDirectoryNode" />
               <item name="selectionSort" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_2" type="462c0819:PsiDirectoryNode" />
+              <item name="section_01" type="462c0819:PsiDirectoryNode" />
+              <item name="shellSort" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -228,7 +249,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593587855746" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593593974637" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -245,7 +266,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AL_04_QueueUsingLinkedList">
+  <component name="RunManager" selected="Application.AL_03_ShellSort">
     <configuration name="AL_01_SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter_2.section_01.selectionSort.AL_01_SelectionSort" />
       <module name="algorithms" />
@@ -272,12 +293,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AL_04_QueueUsingLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_1.section_03.queueUsingLinkedList.AL_04_QueueUsingLinkedList" />
+    <configuration name="AL_03_ShellSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_2.section_01.shellSort.AL_03_ShellSort" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter_1.section_03.queueUsingLinkedList.*" />
+          <option name="PATTERN" value="chapter_2.section_01.shellSort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -306,19 +327,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.AL_04_QueueUsingLinkedList" />
       <item itemvalue="Application.AL_05_QueueUsingArray" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.AL_02_InsertionSort" />
       <item itemvalue="Application.AL_01_SelectionSort" />
+      <item itemvalue="Application.AL_03_ShellSort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AL_03_ShellSort" />
         <item itemvalue="Application.AL_02_InsertionSort" />
         <item itemvalue="Application.AL_01_SelectionSort" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.AL_05_QueueUsingArray" />
-        <item itemvalue="Application.AL_04_QueueUsingLinkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -352,18 +373,18 @@
       <workItem from="1592988285250" duration="855000" />
       <workItem from="1593407405996" duration="2406000" />
       <workItem from="1593518504193" duration="4510000" />
-      <workItem from="1593587198922" duration="656000" />
+      <workItem from="1593587198922" duration="3183000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60224000" />
+    <option name="totallyTimeSpent" value="62751000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978166" visible="true" weight="0.17910448" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978166" visible="true" weight="0.17910448" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -744,13 +765,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter_2/section_01/insertionSort/AL_02_InsertionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter_2/section_01/insertionSort/InsertionSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -769,6 +783,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="19" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter_2/section_01/insertionSort/AL_02_InsertionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="81" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="12" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter_2/section_01/shellSort/ShellSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter_2/section_01/shellSort/AL_03_ShellSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="28" />
         </state>
       </provider>
     </entry>
