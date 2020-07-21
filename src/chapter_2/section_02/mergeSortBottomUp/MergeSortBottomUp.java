@@ -1,18 +1,15 @@
-package chapter_2.section_02.mergeSort;
+package chapter_2.section_02.mergeSortBottomUp;
 
-class MergeSort {
+public class MergeSortBottomUp {
     static int[] auxiliaryArray;
     static void sort(int[] unsortedArray) {
-        auxiliaryArray = new int[unsortedArray.length];
-        sort(unsortedArray, auxiliaryArray, 0, unsortedArray.length - 1);
-    }
+        int arrayLength = unsortedArray.length;
+        auxiliaryArray = new int[arrayLength];
 
-    private static void sort(int[] unsortedArray, int[] auxiliaryArray, int lowIndex, int highIndex) {
-        if (highIndex <= lowIndex) return;
-        int middleIndex = lowIndex + (highIndex - lowIndex) / 2;
-        sort(unsortedArray, auxiliaryArray, lowIndex, middleIndex);
-        sort(unsortedArray, auxiliaryArray, middleIndex + 1, highIndex);
-        merge(unsortedArray, auxiliaryArray, lowIndex, highIndex, middleIndex);
+        for (int subArraySize = 1; subArraySize < arrayLength; subArraySize = 2 * subArraySize) {
+            for (int low = 0; low < arrayLength - subArraySize; low += 2 * subArraySize)
+                merge(unsortedArray, auxiliaryArray, low, Math.min(low + 2 * subArraySize - 1, arrayLength - 1), low + subArraySize - 1);
+        }
     }
 
     private static int[] merge(int[] unsortedArray, int[] auxiliaryArray, int lowIndex, int highIndex, int middleIndex) {

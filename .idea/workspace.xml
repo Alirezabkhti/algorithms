@@ -20,12 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0678552c-4f4a-4a07-bd8e-2016c5fe7f16" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter_2/section_01/knuthShuffle/AL_04_KnuthShuffle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter_2/section_01/knuthShuffle/KnuthShuffle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter_2/section_02/mergeSort/AL_01_MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter_2/section_02/mergeSort/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter_2/section_02/comparableVsComparator/AL_02_ComparableVsComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter_2/section_02/mergeSortBottomUp/AL_02_MergeSortBottomUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter_2/section_02/mergeSortBottomUp/MergeSortBottomUp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms/META-INF/algorithms.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/chapter_2/section_02/mergeSort/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/chapter_2/section_02/mergeSort/MergeSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_2/section_02/mergeSort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter_2/section_02/mergeSort/MergeSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +70,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.AL_01_MergeSort">
+  <component name="RunManager" selected="Application.AL_02_ComparableVsComparator">
     <configuration name="AL_01_MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter_2.section_02.mergeSort.AL_01_MergeSort" />
       <module name="algorithms" />
@@ -82,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AL_01_SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_2.section_01.selectionSort.AL_01_SelectionSort" />
+    <configuration name="AL_02_ComparableVsComparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_2.section_02.comparableVsComparator.AL_02_ComparableVsComparator" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter_2.section_01.selectionSort.*" />
+          <option name="PATTERN" value="chapter_2.section_02.comparableVsComparator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,25 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AL_02_InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_2.section_01.insertionSort.AL_02_InsertionSort" />
+    <configuration name="AL_02_MergeSortBottomUp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_2.section_02.mergeSortBottomUp.AL_02_MergeSortBottomUp" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter_2.section_01.insertionSort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AL_03_ShellSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_2.section_01.shellSort.AL_03_ShellSort" />
-      <module name="algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter_2.section_01.shellSort.*" />
+          <option name="PATTERN" value="chapter_2.section_02.mergeSortBottomUp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,20 +123,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="algorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.AL_02_InsertionSort" />
-      <item itemvalue="Application.AL_01_SelectionSort" />
-      <item itemvalue="Application.AL_03_ShellSort" />
       <item itemvalue="Application.AL_04_KnuthShuffle" />
       <item itemvalue="Application.AL_01_MergeSort" />
+      <item itemvalue="Application.AL_02_MergeSortBottomUp" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.AL_02_ComparableVsComparator" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AL_02_ComparableVsComparator" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.AL_02_MergeSortBottomUp" />
         <item itemvalue="Application.AL_01_MergeSort" />
         <item itemvalue="Application.AL_04_KnuthShuffle" />
-        <item itemvalue="Application.AL_03_ShellSort" />
-        <item itemvalue="Application.AL_02_InsertionSort" />
-        <item itemvalue="Application.AL_01_SelectionSort" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +181,9 @@
       <workItem from="1593764072400" duration="30000" />
       <workItem from="1593765700618" duration="133000" />
       <workItem from="1593841256133" duration="1481000" />
-      <workItem from="1593968923502" duration="3053000" />
+      <workItem from="1593968923502" duration="4608000" />
+      <workItem from="1594096436535" duration="3065000" />
+      <workItem from="1595305314073" duration="1449000" />
     </task>
     <servers />
   </component>
@@ -205,29 +203,37 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="768" y="247" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1595306356915">
+      <screen x="0" y="27" width="1920" height="1003" />
+    </state>
+    <state x="768" y="247" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1003@0.27.1920.1003" timestamp="1595306356915" />
+    <state x="646" y="27" width="608" height="1003" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1595306709007">
+      <screen x="0" y="27" width="1920" height="1003" />
+    </state>
+    <state x="646" y="27" width="608" height="1003" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.27.1920.1003@0.27.1920.1003" timestamp="1595306709007" />
     <state x="743" y="286" width="424" height="491" key="FileChooserDialogImpl" timestamp="1593765831536">
       <screen x="0" y="27" width="3840" height="1003" />
     </state>
     <state x="743" y="286" width="424" height="491" key="FileChooserDialogImpl/0.27.3840.1003@0.27.3840.1003" timestamp="1593765831536" />
-    <state width="1874" height="440" key="GridCell.Tab.0.bottom" timestamp="1593842738084">
+    <state width="1878" height="297" key="GridCell.Tab.0.bottom" timestamp="1595306378515">
       <screen x="0" y="27" width="1920" height="1003" />
     </state>
-    <state width="1874" height="440" key="GridCell.Tab.0.bottom/0.27.1920.1003@0.27.1920.1003" timestamp="1593842738084" />
+    <state width="1878" height="297" key="GridCell.Tab.0.bottom/0.27.1920.1003@0.27.1920.1003" timestamp="1595306378515" />
     <state width="1874" height="440" key="GridCell.Tab.0.bottom/0.27.3840.1003@0.27.3840.1003" timestamp="1593765832881" />
-    <state width="1874" height="440" key="GridCell.Tab.0.center" timestamp="1593842738083">
+    <state width="1878" height="297" key="GridCell.Tab.0.center" timestamp="1595306378515">
       <screen x="0" y="27" width="1920" height="1003" />
     </state>
-    <state width="1874" height="440" key="GridCell.Tab.0.center/0.27.1920.1003@0.27.1920.1003" timestamp="1593842738083" />
+    <state width="1878" height="297" key="GridCell.Tab.0.center/0.27.1920.1003@0.27.1920.1003" timestamp="1595306378515" />
     <state width="1874" height="440" key="GridCell.Tab.0.center/0.27.3840.1003@0.27.3840.1003" timestamp="1593765832879" />
-    <state width="1874" height="440" key="GridCell.Tab.0.left" timestamp="1593842738082">
+    <state width="1878" height="297" key="GridCell.Tab.0.left" timestamp="1595306378514">
       <screen x="0" y="27" width="1920" height="1003" />
     </state>
-    <state width="1874" height="440" key="GridCell.Tab.0.left/0.27.1920.1003@0.27.1920.1003" timestamp="1593842738082" />
+    <state width="1878" height="297" key="GridCell.Tab.0.left/0.27.1920.1003@0.27.1920.1003" timestamp="1595306378514" />
     <state width="1874" height="440" key="GridCell.Tab.0.left/0.27.3840.1003@0.27.3840.1003" timestamp="1593765832878" />
-    <state width="1874" height="440" key="GridCell.Tab.0.right" timestamp="1593842738084">
+    <state width="1878" height="297" key="GridCell.Tab.0.right" timestamp="1595306378515">
       <screen x="0" y="27" width="1920" height="1003" />
     </state>
-    <state width="1874" height="440" key="GridCell.Tab.0.right/0.27.1920.1003@0.27.1920.1003" timestamp="1593842738084" />
+    <state width="1878" height="297" key="GridCell.Tab.0.right/0.27.1920.1003@0.27.1920.1003" timestamp="1595306378515" />
     <state width="1874" height="440" key="GridCell.Tab.0.right/0.27.3840.1003@0.27.3840.1003" timestamp="1593765832880" />
   </component>
   <component name="XDebuggerManager">
