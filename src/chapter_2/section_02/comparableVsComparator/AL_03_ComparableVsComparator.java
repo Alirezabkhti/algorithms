@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class AL_02_ComparableVsComparator {
+public class AL_03_ComparableVsComparator {
     public static void main(String[] args) {
         ComparableVsComparator alireza = new ComparableVsComparator("Alireza");
         ComparableVsComparator jack = new ComparableVsComparator("Jack");
